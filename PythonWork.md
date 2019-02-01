@@ -35,5 +35,4 @@ ax.grid(True)
 plt.savefig('regression.png')
 plt.show()
 
-
-  ```
+```
