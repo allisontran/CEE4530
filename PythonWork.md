@@ -32,7 +32,7 @@ ax.set(xlabel=list(df)[0])
 ax.set(ylabel=list(df)[1])
 ax.legend(['Measured', 'Linear regression'])
 ax.grid(True)
-plt.savefig('C:/Users/mw24/github/CEE4530/images/linear')
+plt.savefig('regression.png')
 plt.show()
 
 
